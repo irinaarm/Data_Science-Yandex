@@ -4,7 +4,7 @@ Programming languages: Python, SQL
 
 IDE: Jupiter Notebook
 
-Certificate - (https://drive.google.com/drive/folders/1nKUEm0RD6ER4orQING86fnSqiFVqYcmn)
+Certificate - ([Data Science Specialist](https://drive.google.com/file/d/17Wl2skRF5Ndfvwu1FWdAG8X6AjOf1Dxt/view?usp=sharing))
 
 # Portfolio
 
