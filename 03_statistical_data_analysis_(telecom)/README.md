@@ -1,8 +1,8 @@
-## [Analysis of telecom plans](https://github.com/irinaarm/Data_Science_Yandex/tree/main/03_statistical_data_analysis_(telecom))
+## [Analysis of telecom plans](https://github.com/irinaarm/Data_Science_Yandex/blob/main/03_statistical_data_analysis_(telecom)/statistical_data_analysis_eng.ipynb))
 
 ## Goal
 
-Analysis of the behavior of the mobile operator's customers to determine the most profitable tariff for the operator.
+Analysis of the behaviour of the mobile operator's customers to determine the most profitable tariff for the operator.
 
 ## Description
 
