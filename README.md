@@ -8,7 +8,6 @@ The repository contains projects that I completed as part of my online practice 
 
 # Portfolio
 
-Здесь собраны некоторые реализованные проекты
 
 | #    |Project name             | Description                                                     | Technology                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
