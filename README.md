@@ -10,7 +10,7 @@ The repository contains projects that I completed as part of my online practice 
 
 Здесь собраны некоторые реализованные проекты
 
-| #    |Project name             | Описание                                                     | Стек                                                         |
+| #    |Project name             | Description                                                     | Technology                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1.   | [Analysis of borrowers’ risk of defaulting](https://github.com/irinaarm/Data_Science_Yandex/blob/main/01_data_preprocessing_(bank_loan)/data_preprocessing_eng.ipynb) | Research of the factors influencing the fact of repayment of the loan on time, based on statistics on the solvency of customers | Pandas, Seaborn, Matplotlib, PyMystem3|
 | 2.   | [Analysis of real estate market value](https://github.com/irinaarm/Data_Science_Yandex/blob/main/02_exploratory_data_analysis_(real_estate)/exploratoy_data_analysis_eng.ipynb)| Analysis of the real estate market in St. Petersburg and the Leningrad region, identification of anomalies to track fraudulent activity | Pandas, NumPy, Matplotlib, Seaborn |
