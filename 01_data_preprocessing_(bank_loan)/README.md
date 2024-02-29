@@ -14,14 +14,14 @@ Tasks:
 
 - To perform data preprocessing
 - To investigate the impact on the fact of repayment of the loan on time of the following factors:
-- the presence of children
-- marital status
-- income level
-- the purpose of the loan
+   - the presence of children
+   - marital status
+   - income level
+   - the purpose of the loan
 
 ## Libraries
 
-**`Pandas`
-`PyMystem3`
-`Matplotlib`
+**`Pandas`,
+`PyMystem3`,
+`Matplotlib`,
 `Seaborn`**
