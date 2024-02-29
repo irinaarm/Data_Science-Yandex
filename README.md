@@ -1,10 +1,10 @@
 The repository contains projects that I completed as part of my online practice in Yandex Practicum. Specialty: Data Science Specialist.
 
-Programming languages: Python, SQL
+**Programming languages**: Python, SQL
 
-IDE: Jupiter Notebook
+**IDE**: Jupiter Notebook
 
-Certificate - ([Data Science Specialist](https://drive.google.com/file/d/17Wl2skRF5Ndfvwu1FWdAG8X6AjOf1Dxt/view?usp=sharing))
+**Certificate** - ([Data Science Specialist](https://drive.google.com/file/d/17Wl2skRF5Ndfvwu1FWdAG8X6AjOf1Dxt/view?usp=sharing))
 
 # Portfolio
 
