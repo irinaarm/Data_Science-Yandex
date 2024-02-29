@@ -1,4 +1,4 @@
-## [Analysis of telecom plans](https://github.com/irinaarm/Data_Science_Yandex/blob/main/03_statistical_data_analysis_(telecom)/statistical_data_analysis_eng.ipynb))
+## [Analysis of telecom plans](https://github.com/irinaarm/Data_Science_Yandex/blob/main/03_statistical_data_analysis_(telecom)/statistical_data_analysis_eng.ipynb)
 
 ## Goal
 
