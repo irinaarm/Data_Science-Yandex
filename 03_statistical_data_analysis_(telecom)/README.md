@@ -6,7 +6,7 @@ Analysis of the behavior of the mobile operator's customers to determine the mos
 
 ## Description
 
-There are data from 500 mobile operator users for 2018: information about users, where they come from, what tariff they use, how many calls and messages and Internet traffic each used in 2018.
+There is data from 500 mobile operator users for 2018: information about users, where they come from, what tariff they use, how many calls and messages and Internet traffic each used in 2018.
 
 Tasks:
 
