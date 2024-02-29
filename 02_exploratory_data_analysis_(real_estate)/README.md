@@ -1,4 +1,4 @@
-## [Analysis of real estate market value](https://github.com/irinaarm/Data_Science_Yandex/tree/main/02_exploratory_data_analysis_(real_estate))
+## [Analysis of real estate market value](https://github.com/irinaarm/Data_Science_Yandex/blob/main/02_exploratory_data_analysis_(real_estate)/exploratoy_data_analysis_eng.ipynb))
 
 ## Goal
 
