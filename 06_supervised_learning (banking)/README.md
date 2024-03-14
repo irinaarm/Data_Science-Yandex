@@ -2,7 +2,7 @@
 
 ## Goal
 
-To build a machine learning model for predicting the fact of a bank customer's departure (binary classification)
+To build a machine learning model for predicting the fact of a bank customer's churn (binary classification)
 
 ## Description
 
